@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+    width: 100%;
+    
+background-image: linear-gradient(110deg, #F4D03F 0%, #16A085 100%);
+
+
+
+}
+.heading{
+    text-align: center;
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 15rem;
+
+}
